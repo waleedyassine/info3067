@@ -1,0 +1,46 @@
+[
+    {
+        "Id":"M-C",
+        "ProductName":"C-Class",
+        "GraphicName":"C 300 4MATIC Coupe",
+        "CostPrice":50000,
+        "MSRP":52900,
+        "QtyOnHand":7,
+        "QtyOnBackOrder": 5,
+        "Description":"Passenger capacity: 4, Engine: 2.0L inline-4 turbo, Power: 255 hp @ 5,800-6,100 rpm, Automatic transmission: 9G-TRONIC 9-speed, Cargo capacity: 380 L, Acceleration: 6.0 sec 0-100 km/h, City fuel economy: TBD, Highway fuel economy: TBD",
+        "Brand":"Mercedes"
+    },
+    {
+        "Id":"M-E",
+        "ProductName":"E-Class",
+        "GraphicName":"E 450 4MATIC Coupe",
+        "CostPrice":80000,
+        "MSRP":83900,
+        "QtyOnHand":10,
+        "QtyOnBackOrder": 6,
+        "Description":"Passenger capacity: 4, Engine: 3.0L inline-6 turbo with mild hybrid drive, Power: 362 hp @ 5,500-6,100 rpm, Automatic transmission: 9G-TRONIC 9-speed, Cargo capacity: 405 L, Acceleration: 5.0 sec 0-100 km/h, City fuel economy: 11.0 L/100km, Highway fuel economy: 8.0 L/100km",
+        "Brand":"Mercedes"
+    },
+    {
+        "Id":"M-S",
+        "ProductName":"S-Class",
+        "GraphicName":"S 560 4MATIC Coupe",
+        "CostPrice":157000,
+        "MSRP":160900,
+        "QtyOnHand":8,
+        "QtyOnBackOrder": 3,
+        "Description":"Passenger capacity: 4, Engine: 4.0L V8 biturbo, Power: 463 hp @ 5,250-5,500 rpm, Automatic transmission: 9G-TRONIC 9-speed, Cargo capacity: 400 L, Acceleration: 4.5 sec 0-100 km/h, City fuel economy: 14.5 L/100km, Highway fuel economy: 9.0 L/100km",
+        "Brand":"Mercedes"
+    },
+    {
+        "Id":"B-3",
+        "ProductName":"BMW 3 Series Sedan",
+        "GraphicName":"2022 BMW 330e Sedan",
+        "CostPrice":50000,
+        "MSRP":52750,
+        "QtyOnHand":12,
+        "QtyOnBackOrder": 8,
+        "Description":"The new BMW 3 Series Sedan offers outstanding driving dynamics and comprehensive, technologically modern support for the driver in the new sporty design.",
+        "Brand":"BMW"
+    }
+]
