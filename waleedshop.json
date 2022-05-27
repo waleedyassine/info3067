@@ -2,7 +2,7 @@
   {
     "ID": "M-C",
     "PNAME": "C-Class 300 4MATIC Coupe",
-    "GNAME": "c300_4matic_coupe",
+    "GNAME": "c300_4matic_coupe.jpg",
     "PRICE": 52900,
     "MSRP": 52900,
     "QTYONHAND": 7,
@@ -13,7 +13,7 @@
   {
     "ID": "M-E",
     "PNAME": "E-Class 450 4MATIC Coupe",
-    "GNAME": "e450_4matic_coupe",
+    "GNAME": "e450_4matic_coupe.jpg",
     "PRICE": 83900,
     "MSRP": 83900,
     "QTYONHAND": 10,
@@ -24,7 +24,7 @@
   {
     "ID": "M-S",
     "PNAME": "S-Class 560 4MATIC Coupe",
-    "GNAME": "s560_4matic_coupe",
+    "GNAME": "s560_4matic_coupe.jpg",
     "PRICE": 157000,
     "MSRP": 160900,
     "QTYONHAND": 8,
