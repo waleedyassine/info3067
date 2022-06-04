@@ -33,8 +33,30 @@
     "BRAND": "Mercedes"
   },
   {
+    "ID": "AMG-C",
+    "PNAME": "AMG C 43 4MATIC Cabriolet",
+    "GNAME": "amg_c43.jpg",
+    "PRICE": 91930,
+    "MSRP": 77500,
+    "QTYONHAND": 10,
+    "QTYONBO": 4,
+    "DESCRIPTION": "When you're born from the racing legacy of the AMG C-Class, driving wide-open is a way of life. The biturbo, four-seat C 43 Cabriolet features a power top that can turn a breeze into an invigorating rush.",
+    "BRAND": "Mercedes"
+  },
+  {
+    "ID": "AMG-CLA",
+    "PNAME": "AMG CLA 45 4MATIC+ Coupe",
+    "GNAME": "amg_cla45.jpg",
+    "PRICE": 79290,
+    "MSRP": 63900,
+    "QTYONHAND": 13,
+    "QTYONBO": 7,
+    "DESCRIPTION": "The 382 handcrafted horsepower AMG CLA 45 is the most powerful car in its class, and arguably the most seductive as well.",
+    "BRAND": "Mercedes"
+  },
+  {
     "ID": "BM-3",
-    "PNAME": "2022 BMW M3 Competition",
+    "PNAME": "BMW M3 Competition",
     "GNAME": "m3.jpg",
     "PRICE": 96404.7,
     "MSRP": 90900,
@@ -44,8 +66,30 @@
     "BRAND": "BMW"
   },
   {
+    "ID": "BM-4",
+    "PNAME": "BMW M4 CSL",
+    "GNAME": "m4.jpg",
+    "PRICE": 169754.7,
+    "MSRP": 166500,
+    "QTYONHAND": 8,
+    "QTYONBO": 2,
+    "DESCRIPTION": "In the new BMW M4 CSL everything is designed with a view to enabling the experience of uncompromising motorsport DNA in everyday use.",
+    "BRAND": "BMW"
+  },
+  {
+    "ID": "BM-5",
+    "PNAME": "BMW M5 Competition",
+    "GNAME": "m5.jpg",
+    "PRICE": 145054.7,
+    "MSRP": 125700,
+    "QTYONHAND": 9,
+    "QTYONBO": 3,
+    "DESCRIPTION": "The athletic BMW 5 Series Sedan delivers 523 hp and impresses with an especially balanced combination of sportiness, comfort and efficiency.",
+    "BRAND": "BMW"
+  },
+  {
     "ID": "BM-8",
-    "PNAME": "2023 BMW M8 Competition Cabriolet",
+    "PNAME": "BMW M8 Competition Cabriolet",
     "GNAME": "m8.jpg",
     "PRICE": 179804.7,
     "MSRP": 167600,
@@ -56,7 +100,7 @@
   },
   {
     "ID": "BM-X6",
-    "PNAME": "2022 BMW X6 M Competition",
+    "PNAME": "BMW X6 M Competition",
     "GNAME": "x6m.jpg",
     "PRICE": 146154.7,
     "MSRP": 137000,
@@ -74,6 +118,17 @@
     "QTYONHAND": 10,
     "QTYONBO": 7,
     "DESCRIPTION": "Model S Plaid has the quickest acceleration of any vehicle in production. Updated battery architecture for all Model S trims enables back-to-back track runs without performance degradation.",
+    "BRAND": "Tesla"
+  },
+  {
+    "ID": "T-3",
+    "PNAME": "Model 3",
+    "GNAME": "model_3.jpg",
+    "PRICE": 61980,
+    "MSRP": 65280,
+    "QTYONHAND": 12,
+    "QTYONBO": 5,
+    "DESCRIPTION": "Model 3 comes with the option of dual motor all-wheel drive, 20” Überturbine Wheels and Performance Brakes for total control in all weather conditions. A carbon fiber spoiler improves stability at high speeds, all allowing Model 3 to accelerate from 0-100 km/h* in as little as 3.3 seconds.",
     "BRAND": "Tesla"
   },
   {
@@ -96,6 +151,17 @@
     "QTYONHAND": 15,
     "QTYONBO": 10,
     "DESCRIPTION": "Tesla All-Wheel Drive has two ultra-responsive, independent electric motors that digitally control torque to the front and rear wheels—for far better handling, traction and stability control. Model Y is capable in rain, snow, mud and off-road.",
+    "BRAND": "Tesla"
+  },
+  {
+    "ID": "T-CT",
+    "PNAME": "Cybertruck",
+    "GNAME": "cybertruck.jpg",
+    "PRICE": 54000,
+    "MSRP": 53000,
+    "QTYONHAND": 6,
+    "QTYONBO": 2,
+    "DESCRIPTION": "Cybertruck is built with an exterior shell made for ultimate durability and passenger protection. Starting with a nearly impenetrable exoskeleton, every component is designed for superior strength and endurance, from Ultra-Hard 30X Cold-Rolled stainless-steel structural skin to Tesla armor glass.",
     "BRAND": "Tesla"
   }
 ]
